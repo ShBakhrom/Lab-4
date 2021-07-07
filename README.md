@@ -4,10 +4,11 @@ Model was created using LogisticRegression on a test data.
 
 
 #How to use
-Go to https://my-lab4.herokuapp.com/predict and enter required parameters and then click on "Predict" button.
+Go to https://my-lab4.herokuapp.com/ and enter required parameters and then click on "Predict" button.
 
 # Built With
 Python
+
 Flask
 
 # License
